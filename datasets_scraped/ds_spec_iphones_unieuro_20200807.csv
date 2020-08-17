@@ -1,0 +1,72 @@
+,tms_loading,date_loading,id_vendor,vendor,os,brand,model,price,original_price,ram,memory,sim,gps,a_gps,color,display_type,display_size,carrier,battery_capacity,height,width,length,weight
+0,2020-08-07 14:25:21.555577,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 128,€799.00,€889.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Nero  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+1,2020-08-07 14:26:02.493044,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 64GB Grigio siderale,€749.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+2,2020-08-07 14:26:43.350360,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 256GB Nero,€759.00,€899.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Nero  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+3,2020-08-07 14:27:20.581299,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 128,€799.00,€889.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Bianco  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+4,2020-08-07 14:28:00.444050,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€539.00,€549.00,,128   GB,Dual SIM ibrida  ,Sì  ,,Nero    ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148  
+5,2020-08-07 14:28:32.831070,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€479.00,€499.00,,64   GB,Dual SIM ibrida  ,Sì  ,,Nero  ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148   g
+6,2020-08-07 14:29:06.977065,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 128,€799.00,€889.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Porpora  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+7,2020-08-07 14:29:46.730604,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€534.00,€549.00,,128   GB,Dual SIM ibrida  ,Sì  ,,Bianco    ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148  
+8,2020-08-07 14:30:22.663297,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€479.00,€499.00,,64   GB,Dual SIM ibrida  ,Sì  ,,Bianco    ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148  
+9,2020-08-07 14:30:58.809505,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max,€799.00,€1289.00,,64   GB,Doppia SIM  ,Si  ,Si  ,Grigio  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+10,2020-08-07 14:31:41.253530,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 64,€1099.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+11,2020-08-07 14:32:24.040221,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 256,€1306.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+12,2020-08-07 14:33:03.671168,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 128,€799.00,€889.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Rosso  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+13,2020-08-07 14:33:37.181614,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 64,€779.00,€839.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Nero  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+14,2020-08-07 14:34:10.727570,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 64,€779.00,€839.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Porpora  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+15,2020-08-07 14:34:54.084984,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 256,€1306.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+16,2020-08-07 14:35:32.550137,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 64,€1049.00,€1189.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+17,2020-08-07 14:36:10.954654,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 256GB Blu,€759.00,€899.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Blu  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+18,2020-08-07 14:36:47.221468,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 128,€799.00,€889.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Verde  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+19,2020-08-07 14:37:23.221491,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 256,€1305.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+20,2020-08-07 14:38:00.458780,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€479.00,€499.00,,64   GB,Dual SIM ibrida  ,Sì  ,,Rosso    ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148  
+21,2020-08-07 14:38:27.690912,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 64,€779.00,€839.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Bianco  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+22,2020-08-07 14:39:10.207767,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 256,€1199.00,€1359.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+23,2020-08-07 14:39:50.412385,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 256,€1199.00,€1359.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Verde  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+24,2020-08-07 14:40:32.605460,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 64,€1099.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+25,2020-08-07 14:41:13.505617,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 64,€1041.00,€1189.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Verde  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+26,2020-08-07 14:41:53.143828,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 64,€1049.00,€1189.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+27,2020-08-07 14:42:32.868186,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 256,€1199.00,€1359.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+28,2020-08-07 14:43:10.789037,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 64,€1049.00,€1189.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+29,2020-08-07 14:43:53.244557,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 256,€1329.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Verde  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+30,2020-08-07 14:44:30.289435,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 64,€1099.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Verde  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+31,2020-08-07 14:45:06.904016,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 64,€779.00,€839.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Rosso  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+32,2020-08-07 14:45:44.494807,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro Max 64,€1099.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"6.5   """,No,,158   mm,77.8   mm,8.1   mm,226   g
+33,2020-08-07 14:46:28.618250,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 64GB Nero,€669.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Nero  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+34,2020-08-07 14:47:04.019321,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 Pro 256,€1199.00,€1359.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"5.8   """,No,,144   mm,71.4   mm,8.1   mm,188   g
+35,2020-08-07 14:47:41.565905,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 128GB Blu,€729.00,€789.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Blu  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+36,2020-08-07 14:48:24.954781,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 64,€779.00,€839.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Giallo  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+37,2020-08-07 14:49:02.637696,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 128GB Corallo,€729.00,€789.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Corallo  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+38,2020-08-07 14:49:38.237352,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 64,€779.00,€839.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Verde  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+39,2020-08-07 14:50:17.762480,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 64GB Bianco,€669.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Bianco  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+40,2020-08-07 14:50:54.726999,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 128GB Bianco,€729.00,€789.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Bianco  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+41,2020-08-07 14:51:35.785289,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 64GB Blu,€669.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Blu  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+42,2020-08-07 14:52:14.283936,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 128GB Nero,€729.00,€789.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Nero  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+43,2020-08-07 14:52:55.239603,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 64GB Giallo,€669.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Giallo  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+44,2020-08-07 14:53:35.174217,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 64GB Corallo,€679.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Corallo  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+45,2020-08-07 14:54:09.259405,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 128GB RED,€729.00,€789.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Rosso  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+46,2020-08-07 14:54:46.291013,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 128GB Giallo,€729.00,€789.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Giallo  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+47,2020-08-07 14:55:27.981427,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 128,€799.00,€889.00,,128   GB,Doppia SIM  ,Sì  ,Sì  ,Giallo  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+48,2020-08-07 14:56:10.307767,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR 64GB RED,€669.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Rosso  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+49,2020-08-07 14:56:47.048751,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€559.00,€559.00,,128   GB,Dual SIM ibrida  ,Sì  ,,Bianco  ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148   g
+50,2020-08-07 14:57:18.257335,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone SE,€539.00,€555.34,,128   GB,Dual SIM ibrida  ,Sì  ,,Rosso    ,IPS  ,"4.7   """,No,,138.4   mm,67.3   mm,7.3   mm,148  
+51,2020-08-07 14:57:51.299191,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 256GB Oro,€899.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+52,2020-08-07 14:58:32.613260,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 64GB Argento,€799.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+53,2020-08-07 14:59:10.672740,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 64GB Oro,€799.00,€1289.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+54,2020-08-07 14:59:51.872473,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 256GB Argento,€899.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+55,2020-08-07 15:00:34.102572,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max,€899.00,€1459.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+56,2020-08-07 15:01:09.935739,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 512GB Argento,€999.00,€1589.00,,512   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+57,2020-08-07 15:01:47.240600,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 8 Plus 64GB Argento,€599.00,€679.00,,64   GB,SIM singola  ,Sì  ,Sì  ,Argento  ,IPS  ,"5.5   """,No,,158.4   mm,78.1   mm,7.5   mm,202   g
+58,2020-08-07 15:02:32.521910,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XR,€699.00,€729.90,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Nero  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+59,2020-08-07 15:03:08.309431,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 11 256,€999.00,€999.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Rosso  ,LCD  ,"6.1   """,No,,150.9   mm,75.7   mm,8.3   mm,194   g
+60,2020-08-07 15:03:45.949832,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 7 32GB Nero opaco,€359.00,€399.00,2   GB,32   GB,SIM singola  ,Sì  ,Sì  ,Nero    ,IPS  ,"4.7   """,No,1960   mAh,138.3   mm,67.1   mm,7.1   mm,138   g
+61,2020-08-07 15:04:33.634732,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 8,€499.00,€499.00,,64   GB,SIM singola  ,Sì  ,Sì  ,Nero    ,IPS  ,"4.7   """,TIM,,138.4   mm,67.3   mm,7.3   mm,148   g
+62,2020-08-07 15:05:18.274826,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS,€739.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"5.8   """,No,,143.6   mm,70.9   mm,7.7   mm,177   g
+63,2020-08-07 15:06:00.458363,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone 7 32GB Argento,€359.00,€399.00,2   GB,32   GB,SIM singola  ,Sì  ,Sì  ,Argento  ,IPS  ,"4.7   """,No,1960   mAh,138.3   mm,67.1   mm,7.1   mm,138   g
+64,2020-08-07 15:06:41.757410,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS 64GB Oro,€739.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"5.8   """,No,,143.6   mm,70.9   mm,7.7   mm,177   g
+65,2020-08-07 15:07:24.684180,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS,€739.00,€739.00,,64   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"5.8   """,No,,143.6   mm,70.9   mm,7.7   mm,177   g
+66,2020-08-07 15:08:05.456298,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone X 64GB Grigio siderale,€649.00,€649.00,,64   GB,SIM singola  ,Sì  ,Sì  ,Grigio  ,OLED  ,"5.8   """,No,,143.6   mm,70.9   mm,7.7   mm,174   g
+67,2020-08-07 15:08:43.959119,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS Max 512GB Grigio siderale,€999.00,€1589.00,,512   GB,Doppia SIM  ,Sì  ,Sì  ,Grigio  ,OLED  ,"6.5   """,No,,157.5   mm,77.4   mm,7.7   mm,208   g
+68,2020-08-07 15:09:21.521159,2020-08-07,2,Unieuro,,APPLE,iPhone 7 32GB 4G 32GB Nero,€359.00,€399.00,2   GB,32   GB,SIM singola  ,Si  ,Si  ,Nero  ,IPS  ,"4.7   """,No,1960   mAh,138.3   mm,67.1   mm,7.1   mm,138   g
+69,2020-08-07 15:09:58.470371,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS,€849.00,€849.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Argento  ,OLED  ,"5.8   """,No,,143.6   mm,70.9   mm,7.7   mm,177   g
+70,2020-08-07 15:10:32.893350,2020-08-07,2,Unieuro,iOS  ,APPLE,iPhone XS,€849.00,€849.00,,256   GB,Doppia SIM  ,Sì  ,Sì  ,Oro  ,OLED  ,"5.8   """,No,,143.6   mm,70.9   mm,7.7   mm,177   g
